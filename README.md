@@ -1,7 +1,6 @@
 ![WELCOME](https://github.com/henricomaeda/henricomaeda/blob/main/welcome.jpg)
 
-- Coding in C Sharp, PHP and JS programming languages, besides HTML, CSS, MySQL, React and React Native.
-- Currently, I'm a junior full stack developer and I have a lot to learn like you!
+- Hey there, I'm Henrico Pelozato Maeda, a self-taught developer with a passion for building web, android, and desktop applications. While I may not have any work experience in the job market, I've been honing my skills through personal projects and constant learning. I'm a problem solver at heart and enjoy working on challenging projects that push me to grow as a developer.
 - Profile inspired by [mrdulin](https://github.com/mrdulin) and [giossaurus](https://github.com/giossaurus).
 - Check out [my portfolio](https://www.linkedin.com/in/henricomaeda)!
 - Contact with me:
